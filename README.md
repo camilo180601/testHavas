@@ -63,7 +63,7 @@ git clone https://github.com/camilo180601/testHavas.git
 
 ### 2. Open the project folder
 
-cd product-finder-test
+cd testHavas
 
 ---
 
@@ -74,11 +74,6 @@ This project requires **no installation**.
 Open index.html directly:
 
 Double click → index.html
-
-Or serve it using a local server:
-
-npx serve .
-python3 -m http.server
 
 ---
 
